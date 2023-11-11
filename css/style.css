@@ -74,7 +74,8 @@ td {
 
 .col-6 {
   background-color: #ff0000;
-  height: 150px;
+  height: 120px;
+  width: 120px;
 }
 
 .col-5 {
